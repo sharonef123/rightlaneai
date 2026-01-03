@@ -1,0 +1,8 @@
+{
+  "name": "RightLaneAI - הדרך הנכונה",
+  "description": "פלטפורמה חברתית מבוססת AI למיצוי זכויות מקסימלי לאזרחי ישראל, המלווה על ידי 'שלי' - העוזרת האישית שלך.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
